@@ -1,0 +1,48 @@
+﻿@model IEnumerable<BookStoreApp.Models.Book>
+@{
+    ViewBag.Title = "Search";
+}
+@using (Html.BeginForm("Search", "Home", FormMethod.Get))
+{
+    <p>
+        Author Name : @Html.DropDownList("authorList", "All")
+        Publisher Name : @Html.DropDownList("publisherList", "All")
+        Book Title: @Html.TextBox("bookTitle")
+        <input type="submit" value="Filter" />
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BookId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Author.AuthorName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Publisher.PublisherName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (BookStoreApp.Models.Book b in Model)
+    {
+        <tr>
+
+            <td>@Html.DisplayFor(book => b.BookId)</td>
+            <td>@Html.DisplayFor(book => b.Title)</td>
+            <td>@Html.DisplayFor(book => b.Author.AuthorName)</td>
+            <td>@Html.DisplayFor(book => b.Publisher.PublisherName)</td>
+            <td>@Html.DisplayFor(book => b.Price)</td>
+            <td>@Html.ActionLink("Add to Cart", "AddToCart","ShoppingCart", new { id = b.BookId }, "")</td>
+            <td>@Html.ActionLink("Add Review", "CreateBookReview", "Home", new { id = b.BookId }, "")</td>
+        </tr>
+    }
+</table>

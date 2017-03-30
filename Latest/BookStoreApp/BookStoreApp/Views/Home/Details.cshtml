@@ -1,0 +1,40 @@
+﻿@model BookStoreApp.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<p>
+    <img alt="@Model.Title"
+         src="@Model.Image" height="200" width="150"/>
+</p>
+<div>
+    <p>
+        <font color="#428bca">Book Name :</font>
+            @Model.Title
+        
+   </p>
+    <p>
+        <font color="#428bca">Category Name :</font>
+        @Model.Category.CategoryName
+    </p>
+    <p>
+        <font color="#428bca">Author Name :</font>
+        @Model.Author.AuthorName
+    </p>
+    <p>
+        <font color="#428bca">Publisher Name :</font>
+        @Model.Publisher.PublisherName
+    </p>
+    <p>
+        <font color="#428bca">Price :</font>
+        @String.Format("{0:F}", Model.Price)
+    </p>
+    
+    <p class="button">
+        @Html.ActionLink("Add to Cart", "AddToCart","ShoppingCart", new { id = Model.BookId }, "")
+    </p>
+</div>
+

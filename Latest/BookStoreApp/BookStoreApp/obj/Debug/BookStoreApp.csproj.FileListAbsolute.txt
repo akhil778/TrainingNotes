@@ -1,0 +1,117 @@
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\BookStoreApp.dll.config
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\BookStoreApp.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\BookStoreApp.pdb
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Antlr3.Runtime.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\EntityFramework.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\EntityFramework.SqlServer.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Newtonsoft.Json.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Owin.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Helpers.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Mvc.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Optimization.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Razor.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\WebGrease.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Helpers.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Mvc.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Optimization.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.Razor.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Newtonsoft.Json.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Antlr3.Runtime.pdb
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\EntityFramework.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\EntityFramework.SqlServer.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.dll
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Migrations.m1.resources
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Migrations.m2.resources
+D:\Projects\Visual Studio\Project\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Migrations.m3.resources
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\BookStoreApp.dll.config
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\BookStoreApp.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\BookStoreApp.pdb
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Antlr3.Runtime.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\EntityFramework.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\EntityFramework.SqlServer.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Newtonsoft.Json.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Owin.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Helpers.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Mvc.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Optimization.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Razor.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Deployment.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Razor.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\WebGrease.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Helpers.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Mvc.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Optimization.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.Razor.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Deployment.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\System.Web.WebPages.Razor.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Newtonsoft.Json.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Antlr3.Runtime.pdb
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\EntityFramework.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\EntityFramework.SqlServer.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csprojResolveAssemblyReference.cache
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Migrations.m1.resources
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Migrations.m2.resources
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.Migrations.m3.resources
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.csproj.GenerateResource.Cache
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.dll
+D:\Training\Latest\BookStoreApp\BookStoreApp\obj\Debug\BookStoreApp.pdb

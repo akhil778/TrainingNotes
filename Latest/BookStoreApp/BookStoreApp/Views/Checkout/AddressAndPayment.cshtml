@@ -1,0 +1,32 @@
+﻿@model BookStoreApp.Models.Order
+
+@{
+    ViewBag.Title = "AddressAndPayment";
+}
+
+<h2>AddressAndPayment</h2>
+
+@using (Html.BeginForm())
+{
+
+    <h2>Address And Payment</h2>
+    <fieldset>
+        <legend>Shipping Information</legend>
+        @Html.EditorForModel()
+    </fieldset>
+    <fieldset>
+        <legend>Payment</legend>
+        <p>
+            
+            Uer this as promo code to place order: "FREE"
+        </p>
+        <div class="editor-label">
+            @Html.Label("Promo Code")
+        </div>
+        <div class="editor-field">
+            @Html.TextBox("PromoCode")
+        </div>
+    </fieldset>
+
+    <input type="submit" value="Submit Order" />
+}

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<BookStoreApp.Models.OrderDetail>
+@{
+    ViewBag.Title = "Checkout Complete";
+}
+<h2>Checkout Complete</h2>
+<br />
+<p>Thanks for your order!</p>
+<p>Your Order number is : @ViewBag.OrderId</p>
+<br />
+<p>
+    <b>Order Summary :</b> 
+    <table class="table">
+        <tr>
+            <th>Book Title</th>
+            <th>Quantity</th>
+            <th>Unit Price</th>
+            <th>Total Amount</th>
+        </tr>
+        @foreach(BookStoreApp.Models.OrderDetail o in Model )
+        {
+         <tr>
+            <td>@o.Book.Title</td>
+            <td>@o.Quantity</td>
+            <td>@o.UnitPrice</td>
+             @{decimal amount=o.Quantity * o.UnitPrice;}
+            <td>@amount</td>
+        </tr>
+        }
+    </table>
+    @Html.ActionLink("Go back and Shop more", "Index", "Home")
+</p>
